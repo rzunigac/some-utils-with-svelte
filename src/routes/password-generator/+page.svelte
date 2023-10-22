@@ -7,7 +7,7 @@
 	<meta name="description" content="Random Password Generator page" />
 </svelte:head>
 
-<div class="text-column">
+<div>
 	<h1>Random Password Generator</h1>
 
 	<p>
